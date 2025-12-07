@@ -1,88 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Hey%2C+sono+JustCritSpam+%F0%9F%9A%80;Minecraft+Developer+%26+Full+Stack+Developer;Java+%7C+JS%2FTS+%7C+Node+%7C+React;Costruisco+plugin+e+web+app+OP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1100&color=00FF00&center=true&vCenter=true&width=900&lines=$+booting+up+JustCritSpam...;$+loading+Minecraft+dev+modules...;$+initializing+full-stack+subsystems...;$+ready+for+new+quests." alt="Typing SVG" />
 </p>
 
-<h1 align="center">⚡ JustCritSpam ⚡</h1>
+<h1 align="center">💻 root@JustCritSpam:~$</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustCritSpam&label=Visitors&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JustCritSpam&label=visitors&color=0E9BD8&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Minecraft-Developer-3C8527?logo=minecraft&logoColor=white" alt="minecraft dev" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-0d1117" alt="full stack" />
   <img src="https://img.shields.io/badge/Discord-justcritspam-5865F2?logo=discord&logoColor=white" alt="discord" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustCritSpam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JustCritSpam&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
-### 🧬 About me
-
-~~~yaml
-name: "JustCritSpam"
-role: "Minecraft Developer & Full-Stack Dev"
-stack: ["Java", "JavaScript", "TypeScript", "Node.js", "React"]
-timezone: "CET"
-status: "Shipping features, breaking features, fixing features"
-fun_fact: "Refactor > Rewrite (quasi sempre)"
-~~~
-
----
-
-### 🧨 Dev console
+### 🧪 Hacker console
 
 ~~~bash
+$ help
+  commands: whoami, stack, mc, quests, contact, clear
+
 $ whoami
-> JustCritSpam
+  user: JustCritSpam
+  roles: ["Minecraft Developer", "Full-Stack Developer"]
+  mode: "dark"
+  timezone: "CET"
 
-$ roles
-> Minecraft Developer, Full-Stack Developer
+$ stack
+  languages : [Java, JavaScript, TypeScript, SQL]
+  frontend  : [React, TailwindCSS]
+  backend   : [Node.js, Express, REST API]
+  tools     : [Git, GitHub, Linux, VSCode]
 
-$ skills --top
-> Java, JS/TS, Node.js, React, SQL, Git, Linux
+$ mc
+  focus     : "plugin per server, sistemi custom, tool per staff"
+  features  : ["ranks", "economy", "GUI", "scoreboard", "quality-of-life"]
+  target    : "server stabili, performanti e divertenti"
 
-$ now
-> Probably fixing un bug che ho creato io stesso
+$ quests
+  - build plugin troppo OP
+  - refactorare codice alle 3 di notte
+  - imparare nuove tecnologie full-stack
+  - non rompere production (work in progress)
+
+$ contact
+  discord   : "justcritspam"
+  github    : "https://github.com/JustCritSpam"
+
+$ clear
+  screen wiped. ready for the next command...
 ~~~
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech stack dashboard
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,tailwind,mysql,git,github,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,tailwind,mysql,git,github,linux,vscode" alt="tech stack icons" />
 </p>
 
 ---
 
-### 💻 Cosa faccio
-
-<details open>
-  <summary><b>🧱 Minecraft Dev</b></summary>
-  <br />
-  <ul>
-    <li>🔌 Plugin per server (SMP, minigames, lobby, hub, ecc.)</li>
-    <li>🧪 Sistemi custom: ranks, economy, GUI, scoreboard, cooldown, ecc.</li>
-    <li>⚙️ Focus su performance, stabilità e QoL per staff e players</li>
-    <li>📦 Tool e script per automatizzare gestione e deploy del server</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🌐 Full Stack Dev</b></summary>
-  <br />
-  <ul>
-    <li>🖥 Front-end: React, Tailwind, layout responsive e dark mode ovunque</li>
-    <li>🧩 Back-end: Node.js, REST API, auth, integrazione con DB e servizi esterni</li>
-    <li>🗄 Database: SQL e strutture dati pensate per non esplodere sotto load</li>
-    <li>🚀 Obiettivo: codebase pulite, scalabili e facili da mantenere</li>
-  </ul>
-</details>
-
----
-
-### 📊 Stats
+### 📊 System stats
 
 <p align="center">
   <img 
@@ -114,27 +96,11 @@ $ now
 
 ---
 
-### ⚔️ Quest Board
+### 🛰 Session log
 
-- ✅ Buildare plugin “troppo complicati” solo per vedere se girano  
-- 🔄 Refactorare codice vecchio e farlo sembrare nuovo  
-- 🧠 Spingere sempre di più lo stack (nuove lib, nuovi pattern)  
-- 🧨 Rompere cose in dev, non in production (si spera)  
-
----
-
-### 🛰️ Contatti
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-justcritspam-5865F2?logo=discord&logoColor=white" alt="discord tag" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/JustCritSpam">
-    <img src="https://img.shields.io/badge/GitHub-JustCritSpam-000?logo=github" alt="github" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Se ti serve un dev per un server Minecraft o un progetto full-stack, scrivimi pure su Discord o apri una issue 👾</i>
-</p>
+~~~bash
+$ status
+  state   : "online"
+  mood    : "building something new"
+  message : "pingami su Discord se vuoi collaborare 👾"
+~~~
