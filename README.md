@@ -57,7 +57,6 @@ fun_fact: "Refactor > Rewrite (quasi sempre)"
 
 ---
 
-
 ### ⚔️ Quest Board
 
 - ✅ Buildare plugin “troppo complicati” solo per vedere se girano  
@@ -70,10 +69,6 @@ fun_fact: "Refactor > Rewrite (quasi sempre)"
 ### 🛰️ Contatti
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-JustCritSpam-5865F2?logo=discord&logoColor=white" alt="discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-justcritspam-5865F2?logo=discord&logoColor=white" alt="discord" /></a>
   <a href="https://github.com/JustCritSpam"><img src="https://img.shields.io/badge/GitHub-JustCritSpam-000?logo=github" alt="github" /></a>
-</p>
-
-<p align="center">
-  <i>Se ti serve un dev per un server Minecraft o un progetto full-stack, pingami pure 👾</i>
 </p>
